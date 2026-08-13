@@ -1,0 +1,445 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BotKit",
+          "description": "Botkit is a toolkit for making bot applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-07-01T02:28:35Z",
+            "owner": "howdyai",
+            "repo": "botkit",
+            "stars": 11583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BotMan",
+          "description": "PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-03T05:14:36Z",
+            "owner": "botman",
+            "repo": "botman",
+            "stars": 6163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bottender",
+          "description": "Make Bots in Your Way, Fast and Flexibly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-10T13:31:04Z",
+            "owner": "Yoctol",
+            "repo": "bottender",
+            "stars": 4280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claudia Bot Builder",
+          "description": "Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-07T13:03:06Z",
+            "owner": "claudiajs",
+            "repo": "claudia-bot-builder",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qtypes",
+          "description": "Rule based Answer Type classification system in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-28T20:27:19Z",
+            "owner": "superscriptjs",
+            "repo": "qtypes",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-03T04:53:24Z",
+            "owner": "bottenderjs",
+            "repo": "messaging-apis",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-01-01T05:59:38Z",
+            "owner": "paked",
+            "repo": "messenger",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "Facebook Messenger"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python (Official)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:11:49Z",
+            "owner": "slackapi",
+            "repo": "python-slack-sdk",
+            "stars": 4009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js (Official)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:38:28Z",
+            "owner": "slackapi",
+            "repo": "node-slack-sdk",
+            "stars": 3377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-03T04:53:24Z",
+            "owner": "bottenderjs",
+            "repo": "messaging-apis",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relax (scalable RTM library to scale to 1000's of teams)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-04-04T16:44:06Z",
+            "owner": "arunthampi",
+            "repo": "relax",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "Slack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T01:08:39Z",
+            "owner": "python-telegram-bot",
+            "repo": "python-telegram-bot",
+            "stars": 29406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T16:34:40Z",
+            "owner": "yagop",
+            "repo": "node-telegram-bot-api",
+            "stars": 9199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-11T06:02:13Z",
+            "owner": "telegraf",
+            "repo": "telegraf",
+            "stars": 9175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-16T23:24:31Z",
+            "owner": "tucnak",
+            "repo": "telebot",
+            "stars": 4634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-20T16:07:18Z",
+            "owner": "php-telegram-bot",
+            "repo": "core",
+            "stars": 4019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-25T15:58:52Z",
+            "owner": "irazasyed",
+            "repo": "telegram-bot-sdk",
+            "stars": 3305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-12T13:07:31Z",
+            "owner": "pengrad",
+            "repo": "java-telegram-bot-api",
+            "stars": 1959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-03T04:53:24Z",
+            "owner": "bottenderjs",
+            "repo": "messaging-apis",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-14T08:50:29Z",
+            "owner": "MrRoundRobin",
+            "repo": "Telegram.Bot",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Telegram"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:10:25Z",
+            "owner": "discordjs",
+            "repo": "discord.js",
+            "stars": 26780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eris",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-28T22:14:27Z",
+            "owner": "abalabahaha",
+            "repo": "eris",
+            "stars": 1510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-10T04:17:51Z",
+            "owner": "izy521",
+            "repo": "discord.io",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discordie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T16:42:34Z",
+            "owner": "qeled",
+            "repo": "discordie",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord.Net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:09:28Z",
+            "owner": "discord-net",
+            "repo": "Discord.Net",
+            "stars": 3505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSharpPlus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-03-21T18:37:16Z",
+            "owner": "Naamloos",
+            "repo": "DSharpPlus",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Node.JS",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Kik"
+    },
+    {
+      "description": "To the extent possible under law, Vishnu Ks has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:29:57.880Z",
+    "original_repository": "hackerkid/bots",
+    "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
+    "enhanced_repository": "enhansome/enhansome-bots",
+    "enhanced_repository_description": null,
+    "title": "Awesome bots with stars"
+  }
+}

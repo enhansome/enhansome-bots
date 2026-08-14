@@ -129,7 +129,7 @@
             "last_commit": "2026-08-13T17:11:49Z",
             "owner": "slackapi",
             "repo": "python-slack-sdk",
-            "stars": 4009
+            "stars": 4012
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-09T01:08:39Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29406
+            "stars": 29408
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-14T16:34:40Z",
             "owner": "yagop",
             "repo": "node-telegram-bot-api",
-            "stars": 9199
+            "stars": 9198
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2025-01-11T06:02:13Z",
             "owner": "telegraf",
             "repo": "telegraf",
-            "stars": 9175
+            "stars": 9174
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-06-16T23:24:31Z",
             "owner": "tucnak",
             "repo": "telebot",
-            "stars": 4634
+            "stars": 4633
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:10:25Z",
+            "last_commit": "2026-08-14T14:28:38Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26780
+            "stars": 26786
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:29:57.880Z",
+    "last_updated": "2026-08-14T20:21:06.549Z",
     "original_repository": "hackerkid/bots",
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",

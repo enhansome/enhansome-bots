@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T01:08:39Z",
+            "last_commit": "2026-08-15T10:55:53Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29408
+            "stars": 29412
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-14T16:34:40Z",
             "owner": "yagop",
             "repo": "node-telegram-bot-api",
-            "stars": 9198
+            "stars": 9200
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-06-16T23:24:31Z",
             "owner": "tucnak",
             "repo": "telebot",
-            "stars": 4633
+            "stars": 4632
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2025-03-20T16:07:18Z",
             "owner": "php-telegram-bot",
             "repo": "core",
-            "stars": 4019
+            "stars": 4020
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-07-25T15:58:52Z",
             "owner": "irazasyed",
             "repo": "telegram-bot-sdk",
-            "stars": 3305
+            "stars": 3304
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-14T14:28:38Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26786
+            "stars": 26785
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-11T19:09:28Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3505
+            "stars": 3504
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:21:06.549Z",
+    "last_updated": "2026-08-15T20:10:47.994Z",
     "original_repository": "hackerkid/bots",
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",

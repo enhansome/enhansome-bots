@@ -129,7 +129,7 @@
             "last_commit": "2026-08-13T17:11:49Z",
             "owner": "slackapi",
             "repo": "python-slack-sdk",
-            "stars": 4012
+            "stars": 4013
           }
         },
         {
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T10:55:53Z",
+            "last_commit": "2026-08-16T02:16:59Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29412
+            "stars": 29416
           }
         },
         {
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-14T16:34:40Z",
+            "last_commit": "2026-08-16T19:12:12Z",
             "owner": "yagop",
             "repo": "node-telegram-bot-api",
             "stars": 9200
@@ -219,7 +219,7 @@
             "last_commit": "2025-01-11T06:02:13Z",
             "owner": "telegraf",
             "repo": "telegraf",
-            "stars": 9174
+            "stars": 9175
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-06-16T23:24:31Z",
             "owner": "tucnak",
             "repo": "telebot",
-            "stars": 4632
+            "stars": 4631
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-09-28T22:14:27Z",
             "owner": "abalabahaha",
             "repo": "eris",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-11T19:09:28Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3504
+            "stars": 3505
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:10:47.994Z",
+    "last_updated": "2026-08-16T20:09:38.334Z",
     "original_repository": "hackerkid/bots",
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",

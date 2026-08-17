@@ -19,7 +19,7 @@
             "last_commit": "2024-07-01T02:28:35Z",
             "owner": "howdyai",
             "repo": "botkit",
-            "stars": 11583
+            "stars": 11582
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-13T17:11:49Z",
             "owner": "slackapi",
             "repo": "python-slack-sdk",
-            "stars": 4013
+            "stars": 4014
           }
         },
         {
@@ -140,7 +140,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:38:28Z",
+            "last_commit": "2026-08-17T19:14:55Z",
             "owner": "slackapi",
             "repo": "node-slack-sdk",
             "stars": 3377
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:16:59Z",
+            "last_commit": "2026-08-16T21:13:26Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29416
+            "stars": 29414
           }
         },
         {
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:12:12Z",
+            "last_commit": "2026-08-16T21:02:06Z",
             "owner": "yagop",
             "repo": "node-telegram-bot-api",
             "stars": 9200
@@ -219,7 +219,7 @@
             "last_commit": "2025-01-11T06:02:13Z",
             "owner": "telegraf",
             "repo": "telegraf",
-            "stars": 9175
+            "stars": 9177
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:28:38Z",
+            "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26785
+            "stars": 26787
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-11T19:09:28Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3505
+            "stars": 3506
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:09:38.334Z",
+    "last_updated": "2026-08-17T20:14:34.377Z",
     "original_repository": "hackerkid/bots",
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",

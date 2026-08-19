@@ -98,14 +98,14 @@
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-18
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,377 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-17
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-19
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,377 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-19
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,417 | 🐛 33 | 🌐 Python | 📅 2026-08-16
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,418 | 🐛 33 | 🌐 Python | 📅 2026-08-16
 * [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,200 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18
 * [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,177 | 🐛 79 | 🌐 TypeScript | 📅 2025-01-11
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,631 | 🐛 65 | 🌐 Go | 📅 2026-06-16
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,789 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-17
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,790 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-17
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,511 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -135,15 +135,15 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,142 | 🐛 159 | 🌐 Python | 📅 2026-07-27
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,145 | 🐛 159 | 🌐 Python | 📅 2026-07-27
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,676 | 🐛 77 | 🌐 Java | 📅 2026-08-14
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,676 | 🐛 78 | 🌐 Java | 📅 2026-08-14
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,588 | 🐛 55 | 🌐 Rust | 📅 2026-08-08
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,589 | 🐛 55 | 🌐 Rust | 📅 2026-08-08
 
 ###### Lua
 

@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-18T22:42:29Z",
+                "last_commit": "2026-08-19T17:59:24Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4014
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:14:55Z",
+                "last_commit": "2026-08-19T17:09:35Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3377
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-16T21:13:26Z",
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29417
+                "stars": 29418
               }
             },
             {
@@ -347,7 +347,7 @@
                     "last_commit": "2026-08-17T10:13:37Z",
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26789
+                    "stars": 26790
                   }
                 },
                 {
@@ -447,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:17.283Z",
+    "last_updated": "2026-08-19T20:15:02.469Z",
     "original_repository": "hackerkid/bots",
     "original_repository_id": 60352717,
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",

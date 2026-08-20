@@ -98,19 +98,19 @@
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-19
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,377 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-19
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-08-20
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,378 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-20
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,418 | 🐛 33 | 🌐 Python | 📅 2026-08-16
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,200 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,177 | 🐛 79 | 🌐 TypeScript | 📅 2025-01-11
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,199 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,179 | 🐛 79 | 🌐 TypeScript | 📅 2025-01-11
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,631 | 🐛 65 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,303 | 🐛 29 | 🌐 PHP | 📅 2026-08-18
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,302 | 🐛 28 | 🌐 PHP | 📅 2026-08-20
 * [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,959 | 🐛 8 | 🌐 Java | 📅 2026-06-12
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [C#](https://github.com/MrRoundRobin/telegram.bot) ⭐ 51 | 🐛 1 | 🌐 C# | 📅 2023-03-14
@@ -119,8 +119,8 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,790 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-17
-* [Eris](https://github.com/abalabahaha/eris) ⭐ 1,511 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,790 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-17
+* [Eris](https://github.com/abalabahaha/eris) ⭐ 1,512 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
 
@@ -130,24 +130,24 @@
 
 ###### C\#
 
-* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,507 | 🐛 109 | 🌐 C# | 📅 2026-08-11
+* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,507 | 🐛 110 | 🌐 C# | 📅 2026-08-11
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) ⚠️ Archived
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,145 | 🐛 159 | 🌐 Python | 📅 2026-07-27
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,146 | 🐛 159 | 🌐 Python | 📅 2026-07-27
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,676 | 🐛 78 | 🌐 Java | 📅 2026-08-14
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,677 | 🐛 78 | 🌐 Java | 📅 2026-08-14
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,589 | 🐛 55 | 🌐 Rust | 📅 2026-08-08
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,590 | 🐛 55 | 🌐 Rust | 📅 2026-08-08
 
 ###### Lua
 
-* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 768 | 🐛 51 | 🌐 Lua | 📅 2026-03-21
+* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 769 | 🐛 51 | 🌐 Lua | 📅 2026-03-21
 
 ###### Go
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

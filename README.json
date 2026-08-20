@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:59:24Z",
+                "last_commit": "2026-08-20T17:19:45Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4014
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:09:35Z",
+                "last_commit": "2026-08-20T19:39:50Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3377
+                "stars": 3378
               }
             },
             {
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 38216778,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T13:56:45Z",
+                "last_commit": "2026-08-20T17:28:31Z",
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9200
+                "stars": 9199
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2025-01-11T06:02:13Z",
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9177
+                "stars": 9179
               }
             },
             {
@@ -275,10 +275,10 @@
                 "archived": false,
                 "id": 38233033,
                 "language": "PHP",
-                "last_commit": "2026-08-18T22:46:56Z",
+                "last_commit": "2026-08-20T10:35:28Z",
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
-                "stars": 3303
+                "stars": 3302
               }
             },
             {
@@ -362,7 +362,7 @@
                     "last_commit": "2025-09-28T22:14:27Z",
                     "owner": "abalabahaha",
                     "repo": "eris",
-                    "stars": 1511
+                    "stars": 1512
                   }
                 },
                 {
@@ -447,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:15:02.469Z",
+    "last_updated": "2026-08-20T20:16:49.710Z",
     "original_repository": "hackerkid/bots",
     "original_repository_id": 60352717,
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",

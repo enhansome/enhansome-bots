@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 38216778,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:33:48Z",
+                "last_commit": "2026-08-24T20:11:27Z",
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
                 "stars": 9202
@@ -436,7 +436,7 @@
                     "last_commit": "2026-08-21T21:24:55Z",
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3510
+                    "stars": 3509
                   }
                 },
                 {
@@ -495,7 +495,7 @@
                     "last_commit": "2026-08-23T15:32:58Z",
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4680
+                    "stars": 4681
                   }
                 }
               ],
@@ -517,7 +517,7 @@
                     "last_commit": "2026-08-08T21:20:12Z",
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5588
+                    "stars": 5590
                   }
                 }
               ],
@@ -536,7 +536,7 @@
                     "archived": false,
                     "id": 56510219,
                     "language": "Lua",
-                    "last_commit": "2026-03-21T16:29:00Z",
+                    "last_commit": "2026-08-24T19:54:19Z",
                     "owner": "SinisterRectus",
                     "repo": "Discordia",
                     "stars": 769
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:10.270Z",
+    "last_updated": "2026-08-24T20:17:46.245Z",
     "original_repository": "hackerkid/bots",
     "original_repository_id": 60352717,
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",

@@ -105,8 +105,8 @@
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,426 | 🐛 35 | 🌐 Python | 📅 2026-08-23
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,202 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,426 | 🐛 36 | 🌐 Python | 📅 2026-08-23
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,202 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24
 * [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,182 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,629 | 🐛 65 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
@@ -130,7 +130,7 @@
 
 ###### C\#
 
-* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,510 | 🐛 110 | 🌐 C# | 📅 2026-08-21
+* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,509 | 🐛 110 | 🌐 C# | 📅 2026-08-21
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) ⚠️ Archived
 
 ###### Python
@@ -139,15 +139,15 @@
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,680 | 🐛 73 | 🌐 Java | 📅 2026-08-23
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,681 | 🐛 74 | 🌐 Java | 📅 2026-08-23
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,588 | 🐛 56 | 🌐 Rust | 📅 2026-08-08
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,590 | 🐛 56 | 🌐 Rust | 📅 2026-08-08
 
 ###### Lua
 
-* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 769 | 🐛 51 | 🌐 Lua | 📅 2026-03-21
+* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 769 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 
 ###### Go
 

@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 26456792,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:01:06Z",
+                "last_commit": "2026-08-27T07:07:40Z",
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4015
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 18117991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T22:01:18Z",
+                "last_commit": "2026-08-27T06:50:26Z",
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3377
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-23T20:54:04Z",
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29434
+                "stars": 29436
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-24T20:48:28Z",
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9203
+                "stars": 9204
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2025-01-11T06:02:13Z",
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9181
+                "stars": 9180
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2025-03-20T16:07:18Z",
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4019
+                "stars": 4018
               }
             },
             {
@@ -362,7 +362,7 @@
                     "last_commit": "2025-09-28T22:14:27Z",
                     "owner": "abalabahaha",
                     "repo": "eris",
-                    "stars": 1514
+                    "stars": 1515
                   }
                 },
                 {
@@ -436,7 +436,7 @@
                     "last_commit": "2026-08-21T21:24:55Z",
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3511
+                    "stars": 3510
                   }
                 },
                 {
@@ -473,7 +473,7 @@
                     "last_commit": "2026-07-27T18:33:15Z",
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16155
+                    "stars": 16156
                   }
                 }
               ],
@@ -517,7 +517,7 @@
                     "last_commit": "2026-08-08T21:20:12Z",
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5594
+                    "stars": 5593
                   }
                 }
               ],
@@ -561,7 +561,7 @@
                     "last_commit": "2026-02-14T12:39:28Z",
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5974
+                    "stars": 5977
                   }
                 }
               ],
@@ -579,9 +579,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:34:34.478Z",
-    "original_repository": "hackerkid/bots",
-    "original_repository_id": 60352717,
+    "last_updated": "2026-08-27T11:30:47.595Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 60352717,
+      "language": null,
+      "last_commit": "2024-02-23T05:34:58Z",
+      "owner": "hackerkid",
+      "repo": "bots",
+      "stars": 1555
+    },
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",
     "enhanced_repository_description": null,

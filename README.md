@@ -58,7 +58,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,507 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,508 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
 * [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
@@ -135,11 +135,11 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,158 | 🐛 161 | 🌐 Python | 📅 2026-07-27
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,159 | 🐛 161 | 🌐 Python | 📅 2026-07-27
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,682 | 🐛 75 | 🌐 Java | 📅 2026-08-26
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,682 | 🐛 76 | 🌐 Java | 📅 2026-08-26
 
 ###### Rust
 

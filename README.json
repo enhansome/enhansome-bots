@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+                "homepage": null,
                 "id": 47851629,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:28:35Z",
+                "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582
+                "stars": 11582,
+                "topics": [
+                  "bot",
+                  "bot-application",
+                  "botkit",
+                  "botkit-studio",
+                  "bots",
+                  "chatbot",
+                  "cisco-spark",
+                  "conversational-ui",
+                  "facebook",
+                  "facebook-bot",
+                  "facebook-messenger",
+                  "glitch",
+                  "making-bots",
+                  "microsoft-bot-framework",
+                  "microsoft-teams",
+                  "slack",
+                  "sms",
+                  "twilio",
+                  "web-bot",
+                  "workplacebyfacebook"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -28,12 +54,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework agnostic PHP library to build chat bots",
+                "homepage": "https://botman.io",
                 "id": 65017574,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-03T05:14:36Z",
+                "open_issues": 10,
                 "owner": "botman",
                 "repo": "botman",
-                "stars": 6162
+                "stars": 6162,
+                "topics": [
+                  "bot",
+                  "bot-framework",
+                  "botman",
+                  "chatbot",
+                  "chatbot-framework",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -44,12 +82,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ A framework for building conversational user interfaces.",
+                "homepage": "https://bottender.js.org",
                 "id": 107108009,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-10T13:31:04Z",
+                "open_issues": 75,
                 "owner": "Yoctol",
                 "repo": "bottender",
-                "stars": 4280
+                "stars": 4280,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "framework",
+                  "line",
+                  "messaging",
+                  "messenger",
+                  "slack",
+                  "telegram",
+                  "viber"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -60,12 +113,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes",
+                "homepage": "https://claudiajs.com/claudia-bot-builder.html",
                 "id": 60166854,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-07T13:03:06Z",
+                "open_issues": 13,
                 "owner": "claudiajs",
                 "repo": "claudia-bot-builder",
-                "stars": 1830
+                "stars": 1830,
+                "topics": [
+                  "alexa",
+                  "aws-lambda",
+                  "chatbot",
+                  "claudiajs",
+                  "facebook-messenger",
+                  "line",
+                  "skype",
+                  "slack",
+                  "telegram",
+                  "twilio",
+                  "viber"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -76,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rule based Answer Type classification system in Node.js",
+                "homepage": null,
                 "id": 18714699,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-28T20:27:19Z",
+                "open_issues": 2,
                 "owner": "superscriptjs",
                 "repo": "qtypes",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             }
@@ -99,12 +174,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Messaging APIs for multi-platform",
+                "homepage": "https://bottenderjs.github.io/messaging-apis/latest/",
                 "id": 90862638,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-03T04:53:24Z",
+                "open_issues": 14,
                 "owner": "bottenderjs",
                 "repo": "messaging-apis",
-                "stars": 1938
+                "stars": 1938,
+                "topics": [
+                  "api-client",
+                  "bot",
+                  "chatbot",
+                  "line",
+                  "messaging",
+                  "messenger",
+                  "slack",
+                  "telegram",
+                  "viber",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -115,12 +206,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Package messenger is used for making bots for use with Facebook messenger",
+                "homepage": null,
                 "id": 56108181,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-01-01T05:59:38Z",
+                "open_issues": 8,
                 "owner": "paked",
                 "repo": "messenger",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "api",
+                  "bot",
+                  "bots",
+                  "client",
+                  "facebook-messenger",
+                  "framework",
+                  "golang",
+                  "golang-library",
+                  "making-bots",
+                  "messenger"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             }
@@ -138,12 +245,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack Developer Kit for Python",
+                "homepage": "https://docs.slack.dev/tools/python-slack-sdk/",
                 "id": 26456792,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:16:01Z",
+                "open_issues": 56,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4016
+                "stars": 4016,
+                "topics": [
+                  "aiohttp",
+                  "aiohttp-client",
+                  "asyncio",
+                  "python",
+                  "slack",
+                  "slackapi",
+                  "socket-mode",
+                  "websocket",
+                  "websocket-client",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -154,12 +277,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack Developer Kit for Node.js",
+                "homepage": "https://docs.slack.dev/tools/node-slack-sdk/",
                 "id": 18117991,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:34:34Z",
+                "open_issues": 63,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3378
+                "stars": 3378,
+                "topics": [
+                  "slack",
+                  "slackapi",
+                  "socket-mode",
+                  "typescript",
+                  "websocket",
+                  "websocket-client",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -170,12 +306,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Messaging APIs for multi-platform",
+                "homepage": "https://bottenderjs.github.io/messaging-apis/latest/",
                 "id": 90862638,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-03T04:53:24Z",
+                "open_issues": 14,
                 "owner": "bottenderjs",
                 "repo": "messaging-apis",
-                "stars": 1938
+                "stars": 1938,
+                "topics": [
+                  "api-client",
+                  "bot",
+                  "chatbot",
+                  "line",
+                  "messaging",
+                  "messenger",
+                  "slack",
+                  "telegram",
+                  "viber",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -186,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bots-as-a-Service for Slack",
+                "homepage": null,
                 "id": 42845295,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2017-04-04T16:44:06Z",
+                "open_issues": 6,
                 "owner": "arunthampi",
                 "repo": "relax",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             }
@@ -209,12 +366,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We have made you a wrapper you can't refuse",
+                "homepage": "https://python-telegram-bot.org",
                 "id": 38696925,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T20:54:04Z",
+                "open_issues": 41,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29437
+                "stars": 29437,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "framework",
+                  "python",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -225,12 +393,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Bot API for NodeJS",
+                "homepage": null,
                 "id": 38216778,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:14:29Z",
+                "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9203
+                "stars": 9203,
+                "topics": [
+                  "api",
+                  "bot",
+                  "bot-framework",
+                  "chatbot",
+                  "nodejs",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -241,12 +421,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Telegram Bot Framework for Node.js",
+                "homepage": "https://telegraf.js.org",
                 "id": 56398352,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-11T06:02:13Z",
+                "open_issues": 80,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9178
+                "stars": 9178,
+                "topics": [
+                  "bot",
+                  "bot-api",
+                  "bot-framework",
+                  "hacktoberfest",
+                  "middleware",
+                  "telegraf",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-bot-api",
+                  "telegram-bots"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -257,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telebot is a Telegram bot framework in Go.",
+                "homepage": null,
                 "id": 38069477,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T23:24:31Z",
+                "open_issues": 66,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4629
+                "stars": 4629,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -273,12 +474,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP Telegram Bot based on the official Telegram Bot API",
+                "homepage": null,
                 "id": 38116958,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-20T16:07:18Z",
+                "open_issues": 84,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4018
+                "stars": 4018,
+                "topics": [
+                  "bot-api",
+                  "hacktoberfest",
+                  "php",
+                  "php-telegram-bot",
+                  "sdk",
+                  "sdk-php",
+                  "telegram",
+                  "telegram-api",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -289,12 +505,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.",
+                "homepage": "https://telegram-bot-sdk.com",
                 "id": 38233033,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T10:35:28Z",
+                "open_issues": 28,
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
-                "stars": 3303
+                "stars": 3303,
+                "topics": [
+                  "bot",
+                  "bot-framework",
+                  "botkit",
+                  "chatbot",
+                  "composer-packages",
+                  "laravel",
+                  "laravel-package",
+                  "laravel-telegram",
+                  "php",
+                  "php-sdk",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-bot-api",
+                  "telegram-bot-sdk"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -305,12 +541,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Bot API for Java",
+                "homepage": "https://core.telegram.org/bots",
                 "id": 40182023,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-12T13:07:31Z",
+                "open_issues": 9,
                 "owner": "pengrad",
                 "repo": "java-telegram-bot-api",
-                "stars": 1958
+                "stars": 1958,
+                "topics": [
+                  "bot",
+                  "telegram",
+                  "telegram-api",
+                  "telegram-bot",
+                  "telegram-bot-api"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -321,12 +568,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Messaging APIs for multi-platform",
+                "homepage": "https://bottenderjs.github.io/messaging-apis/latest/",
                 "id": 90862638,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-03T04:53:24Z",
+                "open_issues": 14,
                 "owner": "bottenderjs",
                 "repo": "messaging-apis",
-                "stars": 1938
+                "stars": 1938,
+                "topics": [
+                  "api-client",
+                  "bot",
+                  "chatbot",
+                  "line",
+                  "messaging",
+                  "messenger",
+                  "slack",
+                  "telegram",
+                  "viber",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             },
@@ -337,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Client for Telegram Bot API",
+                "homepage": "https://telegrambots.github.io/book",
                 "id": 150339600,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-03-14T08:50:29Z",
+                "open_issues": 1,
                 "owner": "MrRoundRobin",
                 "repo": "Telegram.Bot",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
             }
@@ -362,12 +630,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A powerful JavaScript library for interacting with the Discord API",
+                    "homepage": "https://discord.js.org",
                     "id": 40484398,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T13:01:43Z",
+                    "open_issues": 159,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26804
+                    "stars": 26804,
+                    "topics": [
+                      "bot",
+                      "discord",
+                      "discord-api",
+                      "discord-bot",
+                      "discord-server",
+                      "discordjs",
+                      "hacktoberfest",
+                      "nodejs",
+                      "voice-support"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 },
@@ -378,12 +661,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A NodeJS Discord library",
+                    "homepage": "https://abal.moe/Eris/",
                     "id": 62346661,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-28T22:14:27Z",
+                    "open_issues": 46,
                     "owner": "abalabahaha",
                     "repo": "eris",
-                    "stars": 1516
+                    "stars": 1516,
+                    "topics": [
+                      "bot",
+                      "discord",
+                      "discord-api",
+                      "eris",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 },
@@ -394,12 +688,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A small, single-file library for creating DiscordApp clients from Node.js or the browser",
+                    "homepage": "https://discord.gg/0MvHMfHcTKVVmIGP",
                     "id": 39929556,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-10T04:17:51Z",
+                    "open_issues": 56,
                     "owner": "izy521",
                     "repo": "discord.io",
-                    "stars": 532
+                    "stars": 532,
+                    "topics": [
+                      "browser",
+                      "discord",
+                      "discord-io",
+                      "discordapp",
+                      "library",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 },
@@ -410,12 +716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Predictable JavaScript abstractions for Discord API.",
+                    "homepage": "https://qeled.github.io/discordie/",
                     "id": 43853031,
                     "language": "JavaScript",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-04-27T16:42:34Z",
+                    "open_issues": 30,
                     "owner": "qeled",
                     "repo": "discordie",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -433,12 +744,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Discord API wrapper library made in C",
+                    "homepage": "https://cogmasters.github.io/concord/",
                     "id": 445037897,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T15:39:53Z",
+                    "open_issues": 17,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 647
+                    "stars": 647,
+                    "topics": [
+                      "api-client",
+                      "api-rest",
+                      "api-wrapper",
+                      "bsd",
+                      "c",
+                      "discord",
+                      "discord-api",
+                      "discord-bot",
+                      "discord-library",
+                      "linux",
+                      "websockets",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -456,12 +785,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An unofficial .Net wrapper for the Discord API (https://discord.com/)",
+                    "homepage": "https://discordnet.dev",
                     "id": 40171496,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T21:24:55Z",
+                    "open_issues": 110,
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3511
+                    "stars": 3511,
+                    "topics": [
+                      "bot",
+                      "csharp",
+                      "discord",
+                      "discord-api",
+                      "discord-net",
+                      "dotnet-core",
+                      "netcore"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 },
@@ -472,12 +814,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Hello! oh no I broke redirects! the good repo is over at DSharpPlus/DSharpPlus",
+                    "homepage": null,
                     "id": 177004095,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-03-21T18:37:16Z",
+                    "open_issues": 0,
                     "owner": "Naamloos",
                     "repo": "DSharpPlus",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -495,12 +842,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An API wrapper for Discord written in Python.",
+                    "homepage": "http://discordpy.rtfd.org/en/latest",
                     "id": 41179827,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-27T18:33:15Z",
+                    "open_issues": 161,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16158
+                    "stars": 16159,
+                    "topics": [
+                      "bot",
+                      "discord",
+                      "discord-api",
+                      "discord-bot",
+                      "discord-py",
+                      "python",
+                      "python-3"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -518,12 +878,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java wrapper for the popular chat & VOIP service: Discord https://discord.com",
+                    "homepage": "https://jda.wiki",
                     "id": 47880207,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T19:13:12Z",
+                    "open_issues": 76,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4682
+                    "stars": 4682,
+                    "topics": [
+                      "api",
+                      "api-wrapper",
+                      "bot",
+                      "bot-api",
+                      "discord",
+                      "discord-api",
+                      "java",
+                      "javadoc",
+                      "jda",
+                      "rest",
+                      "rest-api",
+                      "websocket"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -541,12 +919,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Rust library for the Discord API.",
+                    "homepage": "https://discord.gg/serenity-rs",
                     "id": 73012103,
                     "language": "Rust",
+                    "license": "ISC",
                     "last_commit": "2026-08-27T22:01:41Z",
+                    "open_issues": 55,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5594
+                    "stars": 5594,
+                    "topics": [
+                      "discord",
+                      "discord-api",
+                      "hacktoberfest",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -564,12 +952,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Discord API library written in Lua for the Luvit runtime environment",
+                    "homepage": null,
                     "id": 56510219,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T19:54:19Z",
+                    "open_issues": 51,
                     "owner": "SinisterRectus",
                     "repo": "Discordia",
-                    "stars": 769
+                    "stars": 769,
+                    "topics": [
+                      "discord",
+                      "discord-api",
+                      "lua",
+                      "luvit"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -587,12 +985,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " (Golang) Go bindings for Discord",
+                    "homepage": null,
                     "id": 45356931,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-02-14T12:39:28Z",
+                    "open_issues": 229,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5977
+                    "stars": 5977,
+                    "topics": [
+                      "discord",
+                      "discord-api",
+                      "discordgo",
+                      "go",
+                      "golang"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:34:29.982Z"
                 }
@@ -611,15 +1020,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:34:29.982Z",
+    "last_updated": "2026-08-29T04:32:00.886Z",
     "original_repository_info": {
       "archived": false,
+      "description": " :zap: Tools for building bots",
+      "homepage": null,
       "id": 60352717,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-02-23T05:34:58Z",
+      "open_issues": 8,
       "owner": "hackerkid",
       "repo": "bots",
-      "stars": 1555
+      "stars": 1555,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bot-stores",
+        "bots",
+        "chatbot",
+        "facebook-messenger"
+      ]
     },
     "original_repository_sha": "daae684caaf43ce2c849d0c452710c0075ead4d0",
     "enhanced_repository": "enhansome/enhansome-bots",

@@ -375,7 +375,7 @@
                 "open_issues": 41,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29437,
+                "stars": 29440,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -430,7 +430,7 @@
                 "open_issues": 80,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9178,
+                "stars": 9177,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -462,7 +462,7 @@
                 "open_issues": 66,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4629,
+                "stars": 4630,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -483,7 +483,7 @@
                 "open_issues": 84,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4018,
+                "stars": 4019,
                 "topics": [
                   "bot-api",
                   "hacktoberfest",
@@ -514,7 +514,7 @@
                 "open_issues": 28,
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
-                "stars": 3303,
+                "stars": 3302,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -550,7 +550,7 @@
                 "open_issues": 9,
                 "owner": "pengrad",
                 "repo": "java-telegram-bot-api",
-                "stars": 1958,
+                "stars": 1959,
                 "topics": [
                   "bot",
                   "telegram",
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T13:01:43Z",
-                    "open_issues": 159,
+                    "last_commit": "2026-08-29T06:39:46Z",
+                    "open_issues": 158,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26804,
+                    "stars": 26806,
                     "topics": [
                       "bot",
                       "discord",
@@ -753,7 +753,7 @@
                     "open_issues": 17,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": [
                       "api-client",
                       "api-rest",
@@ -851,7 +851,7 @@
                     "open_issues": 161,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16159,
+                    "stars": 16160,
                     "topics": [
                       "bot",
                       "discord",
@@ -928,7 +928,7 @@
                     "open_issues": 55,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5594,
+                    "stars": 5597,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:00.886Z",
+    "last_updated": "2026-08-29T22:06:10.119Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

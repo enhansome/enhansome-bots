@@ -83,7 +83,7 @@
 ### General
 
 * [BotKit](https://github.com/howdyai/botkit) ⚠️ Archived - Botkit is a toolkit for making bot applications.
-* [BotMan](https://github.com/botman/botman) ⭐ 6,161 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+* [BotMan](https://github.com/botman/botman) ⭐ 6,160 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 * [Bottender](https://github.com/Yoctol/bottender) ⭐ 4,279 | 🐛 75 | 🌐 TypeScript | 📅 2024-04-10 - Make Bots in Your Way, Fast and Flexibly.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) ⭐ 1,830 | 🐛 13 | 🌐 JavaScript | 📅 2022-04-07 - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Qtypes](https://github.com/superscriptjs/qtypes) ⭐ 160 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-28 - Rule based Answer Type classification system in Node.js.
@@ -93,33 +93,33 @@
 
 ### Facebook Messenger
 
-* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Go](https://github.com/paked/messenger) ⚠️ Archived
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,014 | 🐛 57 | 🌐 Python | 📅 2026-09-04
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,379 | 🐛 64 | 🌐 TypeScript | 📅 2026-09-03
-* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,013 | 🐛 57 | 🌐 Python | 📅 2026-09-04
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,379 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-05
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,446 | 🐛 38 | 🌐 Python | 📅 2026-09-01
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,205 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-04
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,176 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
-* [Go](https://github.com/tucnak/telebot) ⭐ 4,631 | 🐛 66 | 🌐 Go | 📅 2026-06-16
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,444 | 🐛 38 | 🌐 Python | 📅 2026-09-01
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,203 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-04
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,178 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
+* [Go](https://github.com/tucnak/telebot) ⭐ 4,630 | 🐛 66 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,017 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,301 | 🐛 28 | 🌐 PHP | 📅 2026-08-20
 * [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,959 | 🐛 9 | 🌐 Java | 📅 2026-06-12
-* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,938 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [C#](https://github.com/MrRoundRobin/telegram.bot) ⭐ 51 | 🐛 1 | 🌐 C# | 📅 2023-03-14
 
 ### Discord
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,807 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-04
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,808 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-04
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,517 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -130,16 +130,16 @@
 
 ###### C\#
 
-* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,511 | 🐛 110 | 🌐 C# | 📅 2026-08-21
+* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,511 | 🐛 110 | 🌐 C# | 📅 2026-09-05
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) ⚠️ Archived
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,165 | 🐛 163 | 🌐 Python | 📅 2026-09-01
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,167 | 🐛 164 | 🌐 Python | 📅 2026-09-01
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,685 | 🐛 77 | 🌐 Java | 📅 2026-09-04
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,686 | 🐛 78 | 🌐 Java | 📅 2026-09-04
 
 ###### Rust
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

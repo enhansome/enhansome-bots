@@ -58,7 +58,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,508 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,509 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
 * [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
@@ -105,12 +105,12 @@
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,444 | 🐛 38 | 🌐 Python | 📅 2026-09-01
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,203 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-04
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,448 | 🐛 39 | 🌐 Python | 📅 2026-09-06
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,203 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-06
 * [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,178 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
-* [Go](https://github.com/tucnak/telebot) ⭐ 4,630 | 🐛 66 | 🌐 Go | 📅 2026-06-16
+* [Go](https://github.com/tucnak/telebot) ⭐ 4,631 | 🐛 66 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,017 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,301 | 🐛 28 | 🌐 PHP | 📅 2026-08-20
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,301 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
 * [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,959 | 🐛 9 | 🌐 Java | 📅 2026-06-12
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [C#](https://github.com/MrRoundRobin/telegram.bot) ⭐ 51 | 🐛 1 | 🌐 C# | 📅 2023-03-14
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,808 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-04
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,809 | 🐛 156 | 🌐 TypeScript | 📅 2026-09-06
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,517 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -135,15 +135,15 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,167 | 🐛 164 | 🌐 Python | 📅 2026-09-01
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,170 | 🐛 164 | 🌐 Python | 📅 2026-09-01
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,686 | 🐛 78 | 🌐 Java | 📅 2026-09-04
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,687 | 🐛 73 | 🌐 Java | 📅 2026-09-06
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,599 | 🐛 57 | 🌐 Rust | 📅 2026-09-02
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,600 | 🐛 56 | 🌐 Rust | 📅 2026-09-02
 
 ###### Lua
 
@@ -151,7 +151,7 @@
 
 ###### Go
 
-* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,980 | 🐛 231 | 🌐 Go | 📅 2026-02-14
+* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,982 | 🐛 231 | 🌐 Go | 📅 2026-02-14
 
 ### Kik
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

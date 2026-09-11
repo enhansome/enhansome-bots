@@ -99,7 +99,7 @@
 ### Slack
 
 * [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,012 | 🐛 56 | 🌐 Python | 📅 2026-09-10
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,377 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-10
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,378 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-10
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,819 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-10
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,821 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-11
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,516 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -135,11 +135,11 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,178 | 🐛 164 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,182 | 🐛 164 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,690 | 🐛 73 | 🌐 Java | 📅 2026-09-06
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,691 | 🐛 74 | 🌐 Java | 📅 2026-09-11
 
 ###### Rust
 
@@ -151,7 +151,7 @@
 
 ###### Go
 
-* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,984 | 🐛 232 | 🌐 Go | 📅 2026-02-14
+* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,986 | 🐛 232 | 🌐 Go | 📅 2026-02-14
 
 ### Kik
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

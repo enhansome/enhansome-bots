@@ -282,11 +282,11 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T19:36:44Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-10T22:28:27Z",
+                "open_issues": 61,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3377,
+                "stars": 3378,
                 "topics": [
                   "slack",
                   "slackapi",
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T18:37:31Z",
-                    "open_issues": 163,
+                    "last_commit": "2026-09-11T19:45:01Z",
+                    "open_issues": 164,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26819,
+                    "stars": 26821,
                     "topics": [
                       "bot",
                       "discord",
@@ -851,7 +851,7 @@
                     "open_issues": 164,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16178,
+                    "stars": 16182,
                     "topics": [
                       "bot",
                       "discord",
@@ -883,11 +883,11 @@
                     "id": 47880207,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-06T11:48:00Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-09-11T19:15:00Z",
+                    "open_issues": 74,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4690,
+                    "stars": 4691,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -994,7 +994,7 @@
                     "open_issues": 232,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5984,
+                    "stars": 5986,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:02:52.590Z",
+    "last_updated": "2026-09-11T22:05:13.757Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

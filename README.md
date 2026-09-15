@@ -105,7 +105,7 @@
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,465 | 🐛 31 | 🌐 Python | 📅 2026-09-13
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,467 | 🐛 30 | 🌐 Python | 📅 2026-09-15
 * [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,203 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07
 * [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,188 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,632 | 🐛 66 | 🌐 Go | 📅 2026-06-16
@@ -119,14 +119,14 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,821 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-14
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,823 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-14
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,516 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
 
 ###### C
 
-* [Concord](https://github.com/Cogmasters/concord) ⭐ 650 | 🐛 18 | 🌐 C | 📅 2026-08-11
+* [Concord](https://github.com/Cogmasters/concord) ⭐ 651 | 🐛 18 | 🌐 C | 📅 2026-08-11
 
 ###### C\#
 
@@ -135,7 +135,7 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,183 | 🐛 167 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,185 | 🐛 169 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
@@ -143,7 +143,7 @@
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,607 | 🐛 59 | 🌐 Rust | 📅 2026-09-02
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,607 | 🐛 60 | 🌐 Rust | 📅 2026-09-02
 
 ###### Lua
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

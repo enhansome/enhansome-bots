@@ -371,11 +371,11 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T22:37:20Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-15T05:07:46Z",
+                "open_issues": 30,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29465,
+                "stars": 29467,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -639,7 +639,7 @@
                     "open_issues": 165,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26821,
+                    "stars": 26823,
                     "topics": [
                       "bot",
                       "discord",
@@ -753,7 +753,7 @@
                     "open_issues": 18,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 650,
+                    "stars": 651,
                     "topics": [
                       "api-client",
                       "api-rest",
@@ -848,10 +848,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-07T18:11:46Z",
-                    "open_issues": 167,
+                    "open_issues": 169,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16183,
+                    "stars": 16185,
                     "topics": [
                       "bot",
                       "discord",
@@ -925,7 +925,7 @@
                     "language": "Rust",
                     "license": "ISC",
                     "last_commit": "2026-09-02T16:00:43Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "serenity-rs",
                     "repo": "serenity",
                     "stars": 5607,
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:50:33.443Z",
+    "last_updated": "2026-09-15T22:31:32.674Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

@@ -91,7 +91,7 @@
                 "open_issues": 75,
                 "owner": "Yoctol",
                 "repo": "bottender",
-                "stars": 4279,
+                "stars": 4280,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -251,7 +251,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T17:43:00Z",
-                "open_issues": 56,
+                "open_issues": 58,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4013,
@@ -375,7 +375,7 @@
                 "open_issues": 30,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29473,
+                "stars": 29479,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -483,7 +483,7 @@
                 "open_issues": 84,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4015,
+                "stars": 4016,
                 "topics": [
                   "bot-api",
                   "hacktoberfest",
@@ -636,10 +636,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-18T10:46:02Z",
-                    "open_issues": 165,
+                    "open_issues": 166,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26824,
+                    "stars": 26825,
                     "topics": [
                       "bot",
                       "discord",
@@ -670,7 +670,7 @@
                     "open_issues": 46,
                     "owner": "abalabahaha",
                     "repo": "eris",
-                    "stars": 1514,
+                    "stars": 1515,
                     "topics": [
                       "bot",
                       "discord",
@@ -794,7 +794,7 @@
                     "open_issues": 110,
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3511,
+                    "stars": 3512,
                     "topics": [
                       "bot",
                       "csharp",
@@ -848,10 +848,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-07T18:11:46Z",
-                    "open_issues": 171,
+                    "open_issues": 172,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16187,
+                    "stars": 16190,
                     "topics": [
                       "bot",
                       "discord",
@@ -887,7 +887,7 @@
                     "open_issues": 77,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4689,
+                    "stars": 4690,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -924,8 +924,8 @@
                     "id": 73012103,
                     "language": "Rust",
                     "license": "ISC",
-                    "last_commit": "2026-09-16T17:19:00Z",
-                    "open_issues": 61,
+                    "last_commit": "2026-09-19T02:48:24Z",
+                    "open_issues": 57,
                     "owner": "serenity-rs",
                     "repo": "serenity",
                     "stars": 5608,
@@ -961,7 +961,7 @@
                     "open_issues": 51,
                     "owner": "SinisterRectus",
                     "repo": "Discordia",
-                    "stars": 773,
+                    "stars": 774,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 232,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5994,
+                    "stars": 5991,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:01:48.844Z",
+    "last_updated": "2026-09-19T21:54:22.288Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

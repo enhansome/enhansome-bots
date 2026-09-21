@@ -58,7 +58,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,514 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,515 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
 * [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
@@ -83,7 +83,7 @@
 ### General
 
 * [BotKit](https://github.com/howdyai/botkit) ⚠️ Archived - Botkit is a toolkit for making bot applications.
-* [BotMan](https://github.com/botman/botman) ⭐ 6,159 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+* [BotMan](https://github.com/botman/botman) ⭐ 6,158 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 * [Bottender](https://github.com/Yoctol/bottender) ⭐ 4,280 | 🐛 75 | 🌐 TypeScript | 📅 2024-04-10 - Make Bots in Your Way, Fast and Flexibly.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) ⭐ 1,829 | 🐛 13 | 🌐 JavaScript | 📅 2022-04-07 - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Qtypes](https://github.com/superscriptjs/qtypes) ⭐ 160 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-28 - Rule based Answer Type classification system in Node.js.
@@ -98,17 +98,17 @@
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,013 | 🐛 59 | 🌐 Python | 📅 2026-09-10
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,013 | 🐛 58 | 🌐 Python | 📅 2026-09-10
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,378 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-17
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,484 | 🐛 29 | 🌐 Python | 📅 2026-09-20
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,487 | 🐛 29 | 🌐 Python | 📅 2026-09-20
 * [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,206 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,189 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
-* [Go](https://github.com/tucnak/telebot) ⭐ 4,634 | 🐛 66 | 🌐 Go | 📅 2026-06-16
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,190 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11
+* [Go](https://github.com/tucnak/telebot) ⭐ 4,635 | 🐛 66 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,017 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,302 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
 * [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,958 | 🐛 9 | 🌐 Java | 📅 2026-06-12
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,826 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-20
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,829 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-21
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,515 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -130,12 +130,12 @@
 
 ###### C\#
 
-* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,512 | 🐛 110 | 🌐 C# | 📅 2026-09-09
+* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,513 | 🐛 110 | 🌐 C# | 📅 2026-09-09
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) ⚠️ Archived
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,190 | 🐛 172 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,188 | 🐛 173 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
@@ -143,7 +143,7 @@
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,611 | 🐛 57 | 🌐 Rust | 📅 2026-09-19
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,612 | 🐛 57 | 🌐 Rust | 📅 2026-09-19
 
 ###### Lua
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

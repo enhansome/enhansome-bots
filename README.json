@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11577,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -254,7 +254,7 @@
                 "open_issues": 58,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4013,
+                "stars": 4015,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -282,8 +282,8 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:41:46Z",
-                "open_issues": 62,
+                "last_commit": "2026-09-22T17:10:58Z",
+                "open_issues": 63,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3378,
@@ -371,11 +371,11 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T22:42:58Z",
+                "last_commit": "2026-09-22T05:07:45Z",
                 "open_issues": 29,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29487,
+                "stars": 29488,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -430,7 +430,7 @@
                 "open_issues": 80,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9190,
+                "stars": 9188,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -514,7 +514,7 @@
                 "open_issues": 29,
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
-                "stars": 3302,
+                "stars": 3300,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -753,7 +753,7 @@
                     "open_issues": 18,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 651,
+                    "stars": 653,
                     "topics": [
                       "api-client",
                       "api-rest",
@@ -887,7 +887,7 @@
                     "open_issues": 75,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4690,
+                    "stars": 4691,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -924,11 +924,11 @@
                     "id": 73012103,
                     "language": "Rust",
                     "license": "ISC",
-                    "last_commit": "2026-09-19T02:48:24Z",
+                    "last_commit": "2026-09-22T21:24:01Z",
                     "open_issues": 57,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5612,
+                    "stars": 5613,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 232,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5991,
+                    "stars": 5992,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:55:21.990Z",
+    "last_updated": "2026-09-22T22:29:49.785Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",
@@ -1032,7 +1032,7 @@
       "open_issues": 10,
       "owner": "hackerkid",
       "repo": "bots",
-      "stars": 1559,
+      "stars": 1560,
       "topics": [
         "awesome",
         "awesome-list",

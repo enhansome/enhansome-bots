@@ -254,7 +254,7 @@
                 "open_issues": 56,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4015,
+                "stars": 4016,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -371,11 +371,11 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T17:12:10Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-27T01:22:28Z",
+                "open_issues": 30,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29491,
+                "stars": 29492,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9207,
+                "stars": 9208,
                 "topics": [
                   "api",
                   "bot",
@@ -794,7 +794,7 @@
                     "open_issues": 110,
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3513,
+                    "stars": 3515,
                     "topics": [
                       "bot",
                       "csharp",
@@ -851,7 +851,7 @@
                     "open_issues": 173,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16188,
+                    "stars": 16186,
                     "topics": [
                       "bot",
                       "discord",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:15:12.651Z",
+    "last_updated": "2026-09-27T22:40:05.029Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

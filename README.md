@@ -98,15 +98,15 @@
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,017 | 🐛 56 | 🌐 Python | 📅 2026-09-29
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,379 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-29
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,017 | 🐛 55 | 🌐 Python | 📅 2026-09-30
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,379 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-30
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,497 | 🐛 32 | 🌐 Python | 📅 2026-09-27
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,207 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,504 | 🐛 29 | 🌐 Python | 📅 2026-09-30
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,206 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07
 * [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,193 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-24
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,635 | 🐛 66 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,017 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,819 | 🐛 154 | 🌐 TypeScript | 📅 2026-09-28
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,819 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-30
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,515 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -135,7 +135,7 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,192 | 🐛 176 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,191 | 🐛 176 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
@@ -143,7 +143,7 @@
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,617 | 🐛 57 | 🌐 Rust | 📅 2026-09-22
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,619 | 🐛 57 | 🌐 Rust | 📅 2026-09-22
 
 ###### Lua
 
@@ -151,7 +151,7 @@
 
 ###### Go
 
-* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,991 | 🐛 232 | 🌐 Go | 📅 2026-02-14
+* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,992 | 🐛 232 | 🌐 Go | 📅 2026-02-14
 
 ### Kik
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

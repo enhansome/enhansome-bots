@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11580,
+                "stars": 11581,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -250,8 +250,8 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:36:20Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-01T22:23:50Z",
+                "open_issues": 58,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4017,
@@ -282,8 +282,8 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T22:07:20Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-01T19:39:40Z",
+                "open_issues": 63,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3379,
@@ -371,7 +371,7 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T05:35:02Z",
+                "last_commit": "2026-10-01T04:06:46Z",
                 "open_issues": 29,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9206,
+                "stars": 9205,
                 "topics": [
                   "api",
                   "bot",
@@ -430,7 +430,7 @@
                 "open_issues": 76,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9193,
+                "stars": 9194,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -462,7 +462,7 @@
                 "open_issues": 66,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4635,
+                "stars": 4634,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -483,7 +483,7 @@
                 "open_issues": 84,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4017,
+                "stars": 4018,
                 "topics": [
                   "bot-api",
                   "hacktoberfest",
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T00:20:54Z",
-                    "open_issues": 151,
+                    "last_commit": "2026-10-01T01:01:31Z",
+                    "open_issues": 150,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26819,
+                    "stars": 26817,
                     "topics": [
                       "bot",
                       "discord",
@@ -848,7 +848,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-07T18:11:46Z",
-                    "open_issues": 176,
+                    "open_issues": 175,
                     "owner": "Rapptz",
                     "repo": "discord.py",
                     "stars": 16191,
@@ -994,7 +994,7 @@
                     "open_issues": 232,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5992,
+                    "stars": 5991,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:18:38.123Z",
+    "last_updated": "2026-10-01T23:32:59.522Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

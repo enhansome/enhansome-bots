@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11582,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": null,
+              "description": "bottenderjs/messaging-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "paked/messenger",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -241,7 +241,7 @@
             {
               "node_type": "item",
               "title": "Python (Official)",
-              "description": null,
+              "description": "slackapi/python-slack-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "Node.js (Official)",
-              "description": null,
+              "description": "slackapi/node-slack-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": null,
+              "description": "bottenderjs/messaging-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "Relax (scalable RTM library to scale to 1000's of teams)",
-              "description": null,
+              "description": "arunthampi/relax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -362,7 +362,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "python-telegram-bot/python-telegram-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": null,
+              "description": "yagop/node-telegram-bot-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": null,
+              "description": "telegraf/telegraf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "tucnak/telebot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "php-telegram-bot/core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -501,7 +501,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "irazasyed/telegram-bot-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "Java",
-              "description": null,
+              "description": "pengrad/java-telegram-bot-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": null,
+              "description": "bottenderjs/messaging-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -596,7 +596,7 @@
             {
               "node_type": "item",
               "title": "C#",
-              "description": null,
+              "description": "MrRoundRobin/Telegram.Bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "Discord.js",
-                  "description": null,
+                  "description": "discordjs/discord.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -639,7 +639,7 @@
                     "open_issues": 151,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26818,
+                    "stars": 26819,
                     "topics": [
                       "bot",
                       "discord",
@@ -657,7 +657,7 @@
                 {
                   "node_type": "item",
                   "title": "Eris",
-                  "description": null,
+                  "description": "abalabahaha/eris",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -684,7 +684,7 @@
                 {
                   "node_type": "item",
                   "title": "Discord.io",
-                  "description": null,
+                  "description": "izy521/discord.io",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -712,7 +712,7 @@
                 {
                   "node_type": "item",
                   "title": "Discordie",
-                  "description": null,
+                  "description": "qeled/discordie",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -740,7 +740,7 @@
                 {
                   "node_type": "item",
                   "title": "Concord",
-                  "description": null,
+                  "description": "Cogmasters/concord",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -781,7 +781,7 @@
                 {
                   "node_type": "item",
                   "title": "Discord.Net",
-                  "description": null,
+                  "description": "discord-net/Discord.Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -810,7 +810,7 @@
                 {
                   "node_type": "item",
                   "title": "DSharpPlus",
-                  "description": null,
+                  "description": "Naamloos/DSharpPlus",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -838,7 +838,7 @@
                 {
                   "node_type": "item",
                   "title": "discord.py",
-                  "description": null,
+                  "description": "Rapptz/discord.py",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -874,7 +874,7 @@
                 {
                   "node_type": "item",
                   "title": "JDA",
-                  "description": null,
+                  "description": "discord-jda/JDA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -915,7 +915,7 @@
                 {
                   "node_type": "item",
                   "title": "Serenity",
-                  "description": null,
+                  "description": "serenity-rs/serenity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -948,7 +948,7 @@
                 {
                   "node_type": "item",
                   "title": "Discordia",
-                  "description": null,
+                  "description": "SinisterRectus/Discordia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -981,7 +981,7 @@
                 {
                   "node_type": "item",
                   "title": "Discordgo",
-                  "description": null,
+                  "description": "bwmarrin/discordgo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:24:09.278Z",
+    "last_updated": "2026-10-03T04:35:00.683Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",
@@ -1032,7 +1032,7 @@
       "open_issues": 10,
       "owner": "hackerkid",
       "repo": "bots",
-      "stars": 1562,
+      "stars": 1563,
       "topics": [
         "awesome",
         "awesome-list",

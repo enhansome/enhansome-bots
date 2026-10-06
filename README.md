@@ -58,7 +58,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,518 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,519 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
 * [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
@@ -98,7 +98,7 @@
 
 ### Slack
 
-* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,019 | 🐛 60 | 🌐 Python | 📅 2026-10-01
+* [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,019 | 🐛 59 | 🌐 Python | 📅 2026-10-06
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,380 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-01
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,937 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
@@ -107,7 +107,7 @@
 
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,511 | 🐛 29 | 🌐 Python | 📅 2026-10-01
 * [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,209 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,196 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-24
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,197 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-24
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,634 | 🐛 66 | 🌐 Go | 📅 2026-06-16
 * [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,016 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,301 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
@@ -135,7 +135,7 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,193 | 🐛 175 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,195 | 🐛 175 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
@@ -151,7 +151,7 @@
 
 ###### Go
 
-* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,988 | 🐛 233 | 🌐 Go | 📅 2026-02-14
+* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,987 | 🐛 233 | 🌐 Go | 📅 2026-02-14
 
 ### Kik
 

@@ -250,8 +250,8 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:23:50Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-06T03:08:54Z",
+                "open_issues": 59,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4019,
@@ -430,7 +430,7 @@
                 "open_issues": 76,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9196,
+                "stars": 9197,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -851,7 +851,7 @@
                     "open_issues": 175,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16193,
+                    "stars": 16195,
                     "topics": [
                       "bot",
                       "discord",
@@ -994,7 +994,7 @@
                     "open_issues": 233,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5988,
+                    "stars": 5987,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:01:31.235Z",
+    "last_updated": "2026-10-06T10:51:50.583Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

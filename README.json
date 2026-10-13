@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11582,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -250,8 +250,8 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T20:13:31Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-13T19:51:10Z",
+                "open_issues": 55,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4017,
@@ -282,11 +282,11 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T21:40:38Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-13T20:30:31Z",
+                "open_issues": 66,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3378,
+                "stars": 3379,
                 "topics": [
                   "slack",
                   "slackapi",
@@ -375,7 +375,7 @@
                 "open_issues": 33,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29520,
+                "stars": 29519,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9212,
+                "stars": 9211,
                 "topics": [
                   "api",
                   "bot",
@@ -430,7 +430,7 @@
                 "open_issues": 76,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9199,
+                "stars": 9201,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -636,10 +636,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-11T15:29:33Z",
-                    "open_issues": 156,
+                    "open_issues": 158,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26818,
+                    "stars": 26817,
                     "topics": [
                       "bot",
                       "discord",
@@ -851,7 +851,7 @@
                     "open_issues": 178,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16195,
+                    "stars": 16197,
                     "topics": [
                       "bot",
                       "discord",
@@ -924,11 +924,11 @@
                     "id": 73012103,
                     "language": "Rust",
                     "license": "ISC",
-                    "last_commit": "2026-10-10T20:56:56Z",
+                    "last_commit": "2026-10-13T19:04:10Z",
                     "open_issues": 57,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5629,
+                    "stars": 5628,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 233,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5986,
+                    "stars": 5988,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:42:59.552Z",
+    "last_updated": "2026-10-13T23:29:42.889Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",
@@ -1032,7 +1032,7 @@
       "open_issues": 9,
       "owner": "hackerkid",
       "repo": "bots",
-      "stars": 1566,
+      "stars": 1568,
       "topics": [
         "awesome",
         "awesome-list",

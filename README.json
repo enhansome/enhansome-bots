@@ -371,11 +371,11 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T05:56:32Z",
+                "last_commit": "2026-10-18T08:38:33Z",
                 "open_issues": 33,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29520,
+                "stars": 29522,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9212,
+                "stars": 9213,
                 "topics": [
                   "api",
                   "bot",
@@ -636,10 +636,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T14:01:28Z",
-                    "open_issues": 157,
+                    "open_issues": 156,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26817,
+                    "stars": 26818,
                     "topics": [
                       "bot",
                       "discord",
@@ -851,7 +851,7 @@
                     "open_issues": 181,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16195,
+                    "stars": 16198,
                     "topics": [
                       "bot",
                       "discord",
@@ -887,7 +887,7 @@
                     "open_issues": 78,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4691,
+                    "stars": 4692,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:50:46.527Z",
+    "last_updated": "2026-10-18T22:00:58.398Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11584,
+                "stars": 11586,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -251,7 +251,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T19:29:24Z",
-                "open_issues": 56,
+                "open_issues": 60,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4017,
@@ -283,7 +283,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T19:52:01Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
                 "stars": 3381,
@@ -372,10 +372,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-19T01:17:15Z",
-                "open_issues": 30,
+                "open_issues": 32,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29527,
+                "stars": 29526,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9213,
+                "stars": 9214,
                 "topics": [
                   "api",
                   "bot",
@@ -430,7 +430,7 @@
                 "open_issues": 76,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9204,
+                "stars": 9203,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -462,7 +462,7 @@
                 "open_issues": 66,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4631,
+                "stars": 4628,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T14:01:28Z",
+                    "last_commit": "2026-10-20T08:42:17Z",
                     "open_issues": 157,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26816,
+                    "stars": 26818,
                     "topics": [
                       "bot",
                       "discord",
@@ -924,11 +924,11 @@
                     "id": 73012103,
                     "language": "Rust",
                     "license": "ISC",
-                    "last_commit": "2026-10-13T19:04:10Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-10-20T18:31:31Z",
+                    "open_issues": 60,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5633,
+                    "stars": 5634,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 233,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5988,
+                    "stars": 5990,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:12:15.366Z",
+    "last_updated": "2026-10-20T22:47:43.633Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

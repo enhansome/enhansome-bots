@@ -105,11 +105,11 @@
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,542 | 🐛 40 | 🌐 Python | 📅 2026-10-19
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,215 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-29
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,204 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-24
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,544 | 🐛 40 | 🌐 Python | 📅 2026-10-19
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,214 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-29
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,204 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-24
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,628 | 🐛 66 | 🌐 Go | 📅 2026-06-16
-* [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,020 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
+* [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,298 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
 * [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,957 | 🐛 7 | 🌐 Java | 📅 2026-09-26
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,936 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
@@ -119,8 +119,8 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,824 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-30
-* [Eris](https://github.com/abalabahaha/eris) ⭐ 1,513 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,825 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-30
+* [Eris](https://github.com/abalabahaha/eris) ⭐ 1,514 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
 
@@ -130,28 +130,28 @@
 
 ###### C\#
 
-* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,521 | 🐛 111 | 🌐 C# | 📅 2026-10-26
+* [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,522 | 🐛 111 | 🌐 C# | 📅 2026-10-26
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) ⚠️ Archived
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,200 | 🐛 186 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,201 | 🐛 186 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,699 | 🐛 79 | 🌐 Java | 📅 2026-10-23
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,700 | 🐛 79 | 🌐 Java | 📅 2026-10-23
 
 ###### Rust
 
-* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,642 | 🐛 56 | 🌐 Rust | 📅 2026-10-29
+* [Serenity](https://github.com/zeyla/serenity) ⭐ 5,643 | 🐛 56 | 🌐 Rust | 📅 2026-10-31
 
 ###### Lua
 
-* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 776 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
+* [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 777 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 
 ###### Go
 
-* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,994 | 🐛 233 | 🌐 Go | 📅 2026-02-14
+* [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,996 | 🐛 234 | 🌐 Go | 📅 2026-02-14
 
 ### Kik
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

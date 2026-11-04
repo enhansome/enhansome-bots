@@ -58,7 +58,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,524 | 🐛 72 | 🌐 Python | 📅 2026-11-01 - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,523 | 🐛 77 | 🌐 Python | 📅 2026-11-01 - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
 * [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
@@ -99,19 +99,19 @@
 ### Slack
 
 * [Python (Official)](https://github.com/slackhq/python-slackclient) ⭐ 4,016 | 🐛 62 | 🌐 Python | 📅 2026-11-02
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,380 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-03
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) ⭐ 3,380 | 🐛 67 | 🌐 TypeScript | 📅 2026-11-03
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack) ⭐ 1,936 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) ⭐ 171 | 🐛 6 | 🌐 Go | 📅 2017-04-04
 
 ### Telegram
 
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,545 | 🐛 41 | 🌐 Python | 📅 2026-11-01
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,215 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02
-* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,203 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-24
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,550 | 🐛 41 | 🌐 Python | 📅 2026-11-01
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,217 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03
+* [Node.js](https://github.com/telegraf/telegraf) ⭐ 9,204 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-24
 * [Go](https://github.com/tucnak/telebot) ⭐ 4,628 | 🐛 67 | 🌐 Go | 📅 2026-06-16
-* [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,298 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
-* [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,956 | 🐛 7 | 🌐 Java | 📅 2026-09-26
+* [PHP](https://github.com/php-telegram-bot/core) ⭐ 4,020 | 🐛 84 | 🌐 PHP | 📅 2025-03-20
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,299 | 🐛 29 | 🌐 PHP | 📅 2026-08-20
+* [Java](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,957 | 🐛 7 | 🌐 Java | 📅 2026-09-26
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram) ⭐ 1,936 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-03
 * [C#](https://github.com/MrRoundRobin/telegram.bot) ⭐ 51 | 🐛 1 | 🌐 C# | 📅 2023-03-14
 
@@ -119,7 +119,7 @@
 
 ###### Node.js
 
-* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,828 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-01
+* [Discord.js](https://github.com/hydrabolt/discord.js) ⭐ 26,826 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-03
 * [Eris](https://github.com/abalabahaha/eris) ⭐ 1,514 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28
 * [Discord.io](https://github.com/izy521/discord.io) ⚠️ Archived
 * [Discordie](https://github.com/qeled/discordie) ⭐ 190 | 🐛 30 | 🌐 JavaScript | 📅 2021-04-27
@@ -135,11 +135,11 @@
 
 ###### Python
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,201 | 🐛 187 | 🌐 Python | 📅 2026-09-07
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,202 | 🐛 186 | 🌐 Python | 📅 2026-09-07
 
 ###### Java
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,699 | 🐛 79 | 🌐 Java | 📅 2026-10-23
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,700 | 🐛 79 | 🌐 Java | 📅 2026-10-23
 
 ###### Rust
 
@@ -223,4 +223,4 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

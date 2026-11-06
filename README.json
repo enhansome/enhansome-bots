@@ -250,8 +250,8 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T16:18:49Z",
-                "open_issues": 62,
+                "last_commit": "2026-11-05T23:57:36Z",
+                "open_issues": 63,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4016,
@@ -282,11 +282,11 @@
                 "id": 18117991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T19:37:11Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-05T23:50:06Z",
+                "open_issues": 73,
                 "owner": "slackapi",
                 "repo": "node-slack-sdk",
-                "stars": 3379,
+                "stars": 3378,
                 "topics": [
                   "slack",
                   "slackapi",
@@ -372,10 +372,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T02:46:46Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29555,
+                "stars": 29558,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -459,10 +459,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-16T23:24:31Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4629,
+                "stars": 4631,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -514,7 +514,7 @@
                 "open_issues": 29,
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
-                "stars": 3299,
+                "stars": 3301,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T20:34:58Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-11-05T09:50:25Z",
+                    "open_issues": 155,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26829,
+                    "stars": 26830,
                     "topics": [
                       "bot",
                       "discord",
@@ -851,7 +851,7 @@
                     "open_issues": 186,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16204,
+                    "stars": 16203,
                     "topics": [
                       "bot",
                       "discord",
@@ -887,7 +887,7 @@
                     "open_issues": 79,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4700,
+                    "stars": 4698,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -928,7 +928,7 @@
                     "open_issues": 58,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5645,
+                    "stars": 5649,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:36:24.044Z",
+    "last_updated": "2026-11-06T00:36:56.899Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

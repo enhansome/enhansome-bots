@@ -254,7 +254,7 @@
                 "open_issues": 62,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
-                "stars": 4016,
+                "stars": 4018,
                 "topics": [
                   "aiohttp",
                   "aiohttp-client",
@@ -372,10 +372,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T02:46:46Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29564,
+                "stars": 29565,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -636,10 +636,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-06T16:38:38Z",
-                    "open_issues": 155,
+                    "open_issues": 156,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26825,
+                    "stars": 26826,
                     "topics": [
                       "bot",
                       "discord",
@@ -670,7 +670,7 @@
                     "open_issues": 46,
                     "owner": "abalabahaha",
                     "repo": "eris",
-                    "stars": 1514,
+                    "stars": 1513,
                     "topics": [
                       "bot",
                       "discord",
@@ -753,7 +753,7 @@
                     "open_issues": 18,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 661,
+                    "stars": 663,
                     "topics": [
                       "api-client",
                       "api-rest",
@@ -887,7 +887,7 @@
                     "open_issues": 79,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4696,
+                    "stars": 4697,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -928,7 +928,7 @@
                     "open_issues": 53,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5650,
+                    "stars": 5653,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -961,7 +961,7 @@
                     "open_issues": 51,
                     "owner": "SinisterRectus",
                     "repo": "Discordia",
-                    "stars": 777,
+                    "stars": 776,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:13:13.123Z",
+    "last_updated": "2026-11-08T23:16:29.345Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",

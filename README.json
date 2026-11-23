@@ -91,7 +91,7 @@
                 "open_issues": 75,
                 "owner": "Yoctol",
                 "repo": "bottender",
-                "stars": 4283,
+                "stars": 4284,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -371,11 +371,11 @@
                 "id": 38696925,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T17:26:25Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-22T00:33:59Z",
+                "open_issues": 43,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29615,
+                "stars": 29614,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -399,10 +399,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-21T16:51:53Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9218,
+                "stars": 9217,
                 "topics": [
                   "api",
                   "bot",
@@ -462,7 +462,7 @@
                 "open_issues": 59,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4643,
+                "stars": 4648,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -483,7 +483,7 @@
                 "open_issues": 12,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4017,
+                "stars": 4018,
                 "topics": [
                   "bot-api",
                   "hacktoberfest",
@@ -510,8 +510,8 @@
                 "id": 38233033,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T12:23:27Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-22T18:21:52Z",
+                "open_issues": 25,
                 "owner": "irazasyed",
                 "repo": "telegram-bot-sdk",
                 "stars": 3300,
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T23:50:25Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-11-22T21:48:24Z",
+                    "open_issues": 126,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26843,
+                    "stars": 26840,
                     "topics": [
                       "bot",
                       "discord",
@@ -848,10 +848,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-07T18:11:46Z",
-                    "open_issues": 190,
+                    "open_issues": 191,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16216,
+                    "stars": 16217,
                     "topics": [
                       "bot",
                       "discord",
@@ -928,7 +928,7 @@
                     "open_issues": 50,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5660,
+                    "stars": 5662,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 234,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5999,
+                    "stars": 5997,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:59:04.887Z",
+    "last_updated": "2026-11-23T00:31:42.942Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",
@@ -1032,7 +1032,7 @@
       "open_issues": 10,
       "owner": "hackerkid",
       "repo": "bots",
-      "stars": 1582,
+      "stars": 1583,
       "topics": [
         "awesome",
         "awesome-list",

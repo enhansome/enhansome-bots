@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11578,
+                "stars": 11577,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -63,7 +63,7 @@
                 "open_issues": 10,
                 "owner": "botman",
                 "repo": "botman",
-                "stars": 6147,
+                "stars": 6146,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -250,8 +250,8 @@
                 "id": 26456792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T21:39:45Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-24T20:40:01Z",
+                "open_issues": 69,
                 "owner": "slackapi",
                 "repo": "python-slack-sdk",
                 "stars": 4018,
@@ -375,7 +375,7 @@
                 "open_issues": 43,
                 "owner": "python-telegram-bot",
                 "repo": "python-telegram-bot",
-                "stars": 29613,
+                "stars": 29615,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -398,11 +398,11 @@
                 "id": 38216778,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T16:51:53Z",
+                "last_commit": "2026-11-25T00:43:37Z",
                 "open_issues": 2,
                 "owner": "yagop",
                 "repo": "node-telegram-bot-api",
-                "stars": 9218,
+                "stars": 9219,
                 "topics": [
                   "api",
                   "bot",
@@ -430,7 +430,7 @@
                 "open_issues": 81,
                 "owner": "telegraf",
                 "repo": "telegraf",
-                "stars": 9211,
+                "stars": 9212,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -462,7 +462,7 @@
                 "open_issues": 59,
                 "owner": "tucnak",
                 "repo": "telebot",
-                "stars": 4651,
+                "stars": 4650,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:34:29.982Z"
@@ -479,11 +479,11 @@
                 "id": 38116958,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:35:49Z",
+                "last_commit": "2026-11-24T08:52:23Z",
                 "open_issues": 12,
                 "owner": "php-telegram-bot",
                 "repo": "core",
-                "stars": 4018,
+                "stars": 4017,
                 "topics": [
                   "bot-api",
                   "hacktoberfest",
@@ -550,7 +550,7 @@
                 "open_issues": 6,
                 "owner": "pengrad",
                 "repo": "java-telegram-bot-api",
-                "stars": 1953,
+                "stars": 1952,
                 "topics": [
                   "bot",
                   "telegram",
@@ -635,11 +635,11 @@
                     "id": 40484398,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-23T22:03:46Z",
-                    "open_issues": 124,
+                    "last_commit": "2026-11-24T16:21:52Z",
+                    "open_issues": 126,
                     "owner": "discordjs",
                     "repo": "discord.js",
-                    "stars": 26837,
+                    "stars": 26834,
                     "topics": [
                       "bot",
                       "discord",
@@ -753,7 +753,7 @@
                     "open_issues": 18,
                     "owner": "Cogmasters",
                     "repo": "concord",
-                    "stars": 668,
+                    "stars": 669,
                     "topics": [
                       "api-client",
                       "api-rest",
@@ -794,7 +794,7 @@
                     "open_issues": 114,
                     "owner": "discord-net",
                     "repo": "Discord.Net",
-                    "stars": 3525,
+                    "stars": 3524,
                     "topics": [
                       "bot",
                       "csharp",
@@ -848,10 +848,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-07T18:11:46Z",
-                    "open_issues": 194,
+                    "open_issues": 193,
                     "owner": "Rapptz",
                     "repo": "discord.py",
-                    "stars": 16217,
+                    "stars": 16215,
                     "topics": [
                       "bot",
                       "discord",
@@ -887,7 +887,7 @@
                     "open_issues": 79,
                     "owner": "discord-jda",
                     "repo": "JDA",
-                    "stars": 4691,
+                    "stars": 4692,
                     "topics": [
                       "api",
                       "api-wrapper",
@@ -928,7 +928,7 @@
                     "open_issues": 51,
                     "owner": "serenity-rs",
                     "repo": "serenity",
-                    "stars": 5663,
+                    "stars": 5662,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -994,7 +994,7 @@
                     "open_issues": 234,
                     "owner": "bwmarrin",
                     "repo": "discordgo",
-                    "stars": 5997,
+                    "stars": 5996,
                     "topics": [
                       "discord",
                       "discord-api",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:29:42.969Z",
+    "last_updated": "2026-11-25T03:14:01.276Z",
     "original_repository_info": {
       "archived": false,
       "description": " :zap: Tools for building bots",
